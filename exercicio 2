@@ -2,7 +2,7 @@
  <hr> 
 
 < title > exercicio 2 </ title >
-
+<body>
 Mudanças de linha:
 <br>
 <p> " No mundo dos negocios todos são pagos com duas moedas: Dinheiro e experiencia. 
@@ -17,5 +17,5 @@ Mas ha os que lutam toda vida,e este são imprescindiveis."
 <br>
 
 --Bertold Brecht
-
+</body>
 </html>
